@@ -91,3 +91,4 @@ Qual desses você quer agora?
 (3) Deploy instructions para Render
 (4) Tudo acima
 # assistente-de-estudos-ia
+# assistente-de-estudos-ia
